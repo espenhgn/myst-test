@@ -11,9 +11,6 @@ Welcome to myst-test's documentation!
    :caption: Contents:
 
    README
-   documentation/README
-   documentation/subdocs/README
-   documentation/subdocs/irrelevant
 
 .. include:: ../README.md
    :parser: myst_parser.sphinx_
